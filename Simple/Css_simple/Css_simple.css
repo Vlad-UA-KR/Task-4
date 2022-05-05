@@ -1,0 +1,41 @@
+*{
+    margin: 0 auto;
+}
+body{
+    width: 40%;
+}
+h1{
+    text-align: center;
+    background-color: rgb(165, 42, 42);
+    color: white;
+    margin-top: 150px;
+}
+.picture{
+    margin-top: 20px;
+}
+img[title=" "]{
+    width: 100%;
+}
+p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+span{
+    color: blue;
+}
+.logo{
+    display: inline-block;
+    border: 3px dashed black;
+    margin-top: 15px;
+    text-align: center;
+}
+footer{
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+.container{
+    text-align: center;
+}
